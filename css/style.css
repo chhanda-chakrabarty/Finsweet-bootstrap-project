@@ -826,6 +826,7 @@ body {
 
 .customFooterIcons {
   padding-top: 130px;
+  color: var(--white_color);
 }
 /* FOOTER PART CSS END */
 
