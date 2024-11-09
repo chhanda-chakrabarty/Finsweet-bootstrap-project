@@ -1,0 +1,220 @@
+@media (max-width: 1199.98px) {
+  :root {
+    --primary_background_color: #1c1e53;
+    --white_color: #ffffff;
+    --gray_color: #bbbbcb;
+    --primary_font_color: #282938;
+    --yellow_color: #fcd980;
+    --poppins: "Poppins", sans-serif;
+  }
+
+  .customNavItem {
+    font-size: 14px;
+    line-height: 0px;
+    margin-right: 38px;
+  }
+
+  .customBtn {
+    padding: 5px 18px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 80px;
+  }
+
+  .customBanner__title {
+    font-size: 30px;
+    line-height: 42px;
+  }
+
+  .customBanner__summary {
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 48px;
+  }
+
+  .customBtn {
+    padding: 6px 16px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 22px;
+  }
+
+  .customViewPricing {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+
+  .customWork_title {
+    font-size: 36px;
+    line-height: 45px;
+    padding-bottom: 25px;
+  }
+
+  .customWork_summary {
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 10px;
+  }
+
+  .customWorkLeftPart__summary {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 10px;
+  }
+
+  .customProjectPart__title {
+    font-size: 34px;
+    padding-bottom: 16px;
+    line-height: 45px;
+  }
+
+  .overlay__content__title {
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .overlay__content__summary {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .overlay__content__viewProject {
+    font-size: 13px;
+  }
+
+  .customOverlay__title {
+    font-size: 16px;
+  }
+
+  .customOverlay__title {
+    font-size: 14px;
+  }
+
+  .featureBottomContent {
+    padding-left: 50px;
+    padding-bottom: 32px;
+  }
+
+  .featureBottomContent__title {
+    font-size: 22px;
+    line-height: 24px;
+  }
+
+  .featureBottomContent__summary {
+    width: 250px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .reviewPartLeftContent__summary {
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 18px;
+  }
+
+  .reviewPartRightTopContent__title {
+    font-size: 24px;
+    line-height: 33px;
+    margin-bottom: 38px;
+  }
+
+  .faqLeftContent__title {
+    font-size: 22px;
+    line-height: 18px;
+    margin-bottom: 20px;
+  }
+
+  .customAccordion__title {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  .faqLeftContent__info {
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  .contactContentHolder__title {
+    font-size: 17px;
+    line-height: 49px;
+  }
+
+  .contactContentHolder__summary {
+    width: 349px;
+    font-size: 12px;
+    line-height: 21px;
+  }
+
+  .customTopContent {
+    padding: 32px 10px 12px 26px;
+  }
+
+  .customTopContent__title {
+    font-size: 24px;
+    line-height: 45px;
+    padding-bottom: 13px;
+  }
+
+  .customTopContent__summary {
+    line-height: 25px;
+    padding-bottom: 50px;
+    font-size: 14px;
+  }
+
+  .customMiddleContent {
+    padding-left: 26px;
+    padding-bottom: 24px;
+    row-gap: 10px;
+  }
+  .customInput {
+    height: 40px;
+  }
+
+  .customButton {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 14px 115px;
+    margin-left: 63px;
+    margin-bottom: 12px;
+  }
+
+  .customLink {
+    padding-top: 16px;
+    font-size: 13px;
+  }
+
+  .footerRightPartContent__title {
+    font-size: 36px;
+    line-height: 55px;
+  }
+
+  .footerTopLeftPartContent__details {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .footerLeftPartMiddleContent__contact {
+    font-size: 18px;
+    line-height: 18px;
+    margin-right: 28px;
+  }
+
+  .footerLeftPartMiddleContent {
+    padding-left: 44px;
+  }
+
+  .footerLeftPartMiddleContent__details {
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  .customCopyRight__title {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .customCopyRight {
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
