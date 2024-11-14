@@ -52,6 +52,11 @@
     line-height: 22px;
   }
 
+  .reviewPartLeftContent__title {
+    font-size: 30px;
+    line-height: 38px;
+  }
+
   .reviewPartLeftContent__summary {
     font-size: 15px;
     line-height: 24px;
