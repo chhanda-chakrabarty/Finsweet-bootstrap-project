@@ -42,6 +42,11 @@
   .customViewPricing {
     margin-top: 10px;
     font-size: 14px;
+    color: var(--white_color);
+  }
+
+  .customViewPricing:hover {
+    font-size: 14px;
   }
 
   .customWork_title {
@@ -57,11 +62,11 @@
   }
 
   .customWorkLeftPart__summary {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
     margin-bottom: 10px;
+    padding: 0 24px;
   }
-
   .customProjectPart__title {
     font-size: 34px;
     padding-bottom: 16px;
@@ -105,16 +110,19 @@
     font-size: 16px;
     line-height: 25px;
   }
-
+  .reviewPartLeftContent__title {
+    font-size: 35px;
+    line-height: 33px;
+  }
   .reviewPartLeftContent__summary {
     font-size: 15px;
-    line-height: 24px;
-    margin-top: 18px;
+    line-height: 28px;
+    margin-bottom: 45px;
   }
 
   .reviewPartRightTopContent__title {
-    font-size: 24px;
-    line-height: 33px;
+    font-size: 30px;
+    line-height: 37px;
     margin-bottom: 38px;
   }
 
@@ -127,6 +135,12 @@
   .customAccordion__title {
     font-size: 18px;
     line-height: 18px;
+  }
+
+  .customAccordion__summary {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
   }
 
   .faqLeftContent__info {
@@ -208,6 +222,10 @@
     line-height: 28px;
   }
 
+  .customFooterIcons {
+    padding-top: 20px;
+  }
+
   .customCopyRight__title {
     font-size: 14px;
     line-height: 22px;
@@ -216,10 +234,5 @@
   .customCopyRight {
     font-size: 14px;
     line-height: 18px;
-  }
-
-  .reviewPartLeftContent__title {
-    font-size: 24px;
-    line-height: 34px;
   }
 }
