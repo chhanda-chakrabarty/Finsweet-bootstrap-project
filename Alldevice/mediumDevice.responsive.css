@@ -13,9 +13,10 @@
     border: 1px dashed #ffffff;
   }
 
-  .customNavLi {
+  .customNav {
     text-align: center;
     background-color: #fcd980;
     border-radius: 8px;
+    margin-top: 10px 0;
   }
 }
